@@ -1,8 +1,8 @@
 ----
 Autoclass :
 
-- shortcut for create c++ class, it create a "inc" and "src" directory with <name>.hpp and <name>.cpp in each.     
-It create also an alias for zshrc when you make.
+- Shortcut for create c++ class, it create a 'inc' and 'src' directory with 'name.hpp' and 'name.cpp' in each respective directory.     
+It also create an alias for zshrc when you make.
 
 use :
     
@@ -12,7 +12,7 @@ use :
 
 ---
 gap.sh : 
-- shortcut for git, execute one after the other the following command:
+- Shortcut for git, execute one after the other the following command:
 
         - git add .
         - git commit -m <message> : message passed in parameter 
